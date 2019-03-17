@@ -1,0 +1,8 @@
+fastjson=com.gabriel.core.Serialization.FastJsonSerialization
+fst=com.gabriel.core.Serialization.FSTSerialization
+gson=com.gabriel.core.Serialization.GsonSerialization
+hessian2=com.gabriel.core.Serialization.Hessian2Serialization
+jackson=com.gabriel.core.Serialization.JacksonSerialization
+jdk=com.gabriel.core.Serialization.JDKSerialization
+kryo=com.gabriel.core.Serialization.KryoSerialization
+protostuff=com.gabriel.core.Serialization.ProtostuffSerialization
